@@ -213,55 +213,23 @@
 
   <!-- Message 1 -->
   <g transform="translate(10, 10)" class="msg-1">
-    <rect width="300" height="42" rx="18.0355" class="bubble" />
+    <rect width="250" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Hi, I'm Ganesh Pinnamaneni </text>
   </g>
 
   <!-- Message 2 -->
-  <g transform="translate(10, 62)" class="msg-2">
-    <rect width="350" height="66" rx="18.0355" class="bubble" />
+  <g transform="translate(10, 60)" class="msg-2">
+    <rect width="350" height="44" rx="18.0355" class="bubble" />
     <text x="15" y="27">A resilient ML engineer ✨</text>
-   
   </g>
 
   <!-- Message 3 -->
-  <g transform="translate(10, 138)" class="msg-3">
-    <rect width="350" height="66" rx="18.0355" class="bubble" />
-   
-    <text x="15" y="50">Building something out of the box now</text>
+  <g transform="translate(10, 113)" class="msg-3">
+    <rect width="350" height="46" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Building something out of the box now</text>
   </g>
-  <!-- Typing indicator -->
-  <g transform="translate(10, 214)" class="typing">
-    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
-    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
-    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
-
-    <circle cx="27.4778" cy="20.9773" r="5.02275" class="typing">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="42.8411" cy="20.9773" r="5.02275" class="typing">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="58.2054" cy="20.9773" r="5.02275" class="typing">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-    </circle>
-  </g>
-  <!-- Typing indicator -->
-  <g transform="translate(10, 214)" class="typing">
-    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
-    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
-    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
-
-    <circle cx="27.4778" cy="20.9773" r="5.02275" class="typing">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="42.8411" cy="20.9773" r="5.02275" class="typing">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="58.2054" cy="20.9773" r="5.02275" class="typing">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-    </circle>
-  </g>
+  
+ 
   <script type="text/ecmascript">
   <![CDATA[
     function showNextMessage(msgClass) {
@@ -273,7 +241,7 @@
     setTimeout(function() { showNextMessage('msg-1'); }, 1000);
     setTimeout(function() { showNextMessage('msg-2'); }, 2000);
     setTimeout(function() { showNextMessage('msg-3'); }, 3000);
-    setTimeout(function() { showNextMessage('typing'); }, 4000);
+
     setTimeout(function() {
       document.querySelector('.typing').style.opacity = 0;
       showNextMessage('msg-4');
