@@ -16,3 +16,19 @@
 
 ![snake animation](https://github.com/Ganesh2409/Ganesh2409/blob/output/github-snake-dark.svg)
 
+## 🤝🏻 &nbsp;Connect with Me
+
+<div class="social-badges">
+<a href="https://www.linkedin.com/in/ganesh-pinnamaneni/" target="_blank">
+  <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:pinnamanenigansh24@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+<br>
+  <a href="https://x.com/pinnamaneni24" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/-twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white">
+  </a>
+</div>
+
