@@ -26,8 +26,9 @@
   <a href="mailto:pinnamanenigansh24@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white" style="margin-right: 10px;" />
   </a>
+  </br>
 
-  <a href="https://x.com/pinnamaneni24" target="_blank">
+  <a href="https://x.com/pinnamaneni24" target="_blank mt-5px ">
     <img alt="Twitter" src="https://img.shields.io/badge/-twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
 </div>
