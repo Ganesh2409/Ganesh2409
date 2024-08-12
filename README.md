@@ -1,6 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> .... :) </a></h1>
 
+
+## 👨‍💻  &nbsp;About Me 
+
 [![](https://github.com/Ganesh2409/Ganesh2409/blob/main/chat.svg)](https://www.linkedin.com/in/ganesh-pinnamaneni/)
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/Ganesh2409">
