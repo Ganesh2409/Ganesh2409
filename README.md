@@ -14,5 +14,5 @@
 </a>
 </p>
 
-![snake animation](https://github.com/Ganesh2409/Ganesh2409/blob/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/Ganesh2409/Ganesh2409/blob/output/github-snake-dark.svg)
 
