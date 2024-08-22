@@ -13,13 +13,13 @@
   <img src="https://komarev.com/ghpvc/?username=Ganesh2409&label=Visitors&color=blue&style=plastic" alt="Profile views">
 </p>
 
-## 👨‍💻  &nbsp;About Me 
+## 👨‍💻  &nbsp;About Me .... :) 
 
 [![](https://github.com/Ganesh2409/Ganesh2409/blob/main/chat.svg)](https://www.linkedin.com/in/ganesh-pinnamaneni/)
 
 
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics .... :) 
 
 <p align="left">
 <a href="https://github.com/Ganesh2409">
@@ -30,7 +30,7 @@
 
 ![snake animation](https://github.com/Ganesh2409/Ganesh2409/blob/output/github-snake-dark.svg)
 
-## 🤝🏻 &nbsp;Connect with Me Here ... :) 
+## 🤝🏻 &nbsp;Connect with Me Here .... :) 
 
 <a href="https://www.linkedin.com/in/ganesh-pinnamaneni/">
 <img align="left" alt="Ganesh Pinnamaneni | Linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
