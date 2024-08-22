@@ -1,10 +1,23 @@
 
 <h1 align="center">HEY WELCOME <img src = "https://github.com/smruthi49/TSP-DSAI/blob/main/images/life_goes_on.gif" width = "95" height = "100"/> .... :) </a></h1>
 
+<br>
+
+<p align="center">
+  <a href="https://github.com/Ganesh2409">
+    <img src="https://img.shields.io/github/followers/Ganesh2409?label=follow&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ganesh-pinnamaneni/">
+    <img src="https://img.shields.io/badge/-Ganesh%20Pinnamaneni-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ganesh2409&label=Visitors&color=blue&style=plastic" alt="Profile views">
+</p>
 
 ## 👨‍💻  &nbsp;About Me 
 
 [![](https://github.com/Ganesh2409/Ganesh2409/blob/main/chat.svg)](https://www.linkedin.com/in/ganesh-pinnamaneni/)
+
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -17,21 +30,18 @@
 
 ![snake animation](https://github.com/Ganesh2409/Ganesh2409/blob/output/github-snake-dark.svg)
 
-## 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me Here ... :) 
 
-<div class="social-badges">
-  <a href="https://www.linkedin.com/in/ganesh-pinnamaneni/" target="_blank">
-    <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 10px;" />
-  </a>
+<a href="https://www.linkedin.com/in/ganesh-pinnamaneni/">
+<img align="left" alt="Ganesh Pinnamaneni | Linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
 
-  <a href="mailto:pinnamanenigansh24@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white" style="margin-right: 10px;" />
-  </a>
-  </br>
+<a href="https://x.com/pinnamaneni24?lang=en">
+<img align="left" alt="Ganesh Pinnamaneni | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png" />
+</a> 
 
-  <a href="https://x.com/pinnamaneni24" target="_blank mt-5px ">
-    <img alt="Twitter" src="https://img.shields.io/badge/-twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-</div>
+<a href="mailto:pinnamaneniganesh24@gmail.com">
+  <img align="left" alt="Ganesh Pinnamaneni | Email" width="30px" src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" />
+</a>
 
 
