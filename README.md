@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey Buddy Iam Waiting for U <img src = "https://github.com/smruthi49/TSP-DSAI/blob/main/images/life_goes_on.gif" width = "95" height = "100"/> .... :) </a></h1>
+<h1 align="center">Hey Buddy Iam Looking for U (👀) <img src = "https://github.com/smruthi49/TSP-DSAI/blob/main/images/life_goes_on.gif" width = "95" height = "100"/> .... :) </a></h1>
 
 <br>
 
